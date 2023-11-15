@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-15T14:34:49 IST" name="Default suite" finished-at="2023-11-15T14:34:58 IST" duration-ms="8940">
+    <groups>
+    </groups>
+    <test started-at="2023-11-15T14:34:49 IST" name="Default test" finished-at="2023-11-15T14:34:58 IST" duration-ms="8940">
+      <class name="com.sportyshoeTestPages.RegisterPageTest">
+        <test-method is-config="true" signature="start_browser()[pri:0, instance:com.sportyshoeTestPages.RegisterPageTest@273444fe]" started-at="2023-11-15T14:34:49 IST" name="start_browser" finished-at="2023-11-15T14:34:56 IST" duration-ms="6776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start_browser -->
+        <test-method signature="test_click_register_link()[pri:49, instance:com.sportyshoeTestPages.RegisterPageTest@273444fe]" started-at="2023-11-15T14:34:56 IST" name="test_click_register_link" finished-at="2023-11-15T14:34:58 IST" duration-ms="1636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_click_register_link -->
+        <test-method signature="test_getTitle_page()[pri:50, instance:com.sportyshoeTestPages.RegisterPageTest@273444fe]" started-at="2023-11-15T14:34:58 IST" name="test_getTitle_page" finished-at="2023-11-15T14:34:58 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getTitle_page -->
+        <test-method signature="Test_register_user()[pri:51, instance:com.sportyshoeTestPages.RegisterPageTest@273444fe]" started-at="2023-11-15T14:34:58 IST" name="Test_register_user" finished-at="2023-11-15T14:34:58 IST" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_register_user -->
+        <test-method signature="Test_validate_registration_URL()[pri:52, instance:com.sportyshoeTestPages.RegisterPageTest@273444fe]" started-at="2023-11-15T14:34:58 IST" name="Test_validate_registration_URL" finished-at="2023-11-15T14:34:58 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_validate_registration_URL -->
+        <test-method signature="Test_validate_registration_Text()[pri:53, instance:com.sportyshoeTestPages.RegisterPageTest@273444fe]" started-at="2023-11-15T14:34:58 IST" name="Test_validate_registration_Text" finished-at="2023-11-15T14:34:58 IST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_validate_registration_Text -->
+      </class> <!-- com.sportyshoeTestPages.RegisterPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
